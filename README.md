@@ -18,7 +18,7 @@ https://dune.readthedocs.io/en/stable/quick-start.html#building-a-hello-world-pr
 
 0) hello_world
 1) multiply
-2)
+2) opposite_number
 3)
 4)
 5)
