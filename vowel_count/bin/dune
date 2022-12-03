@@ -1,0 +1,4 @@
+(executable
+ (public_name vowel_count)
+ (name main)
+ (libraries vowel_count))

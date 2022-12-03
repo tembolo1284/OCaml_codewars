@@ -21,5 +21,10 @@ https://dune.readthedocs.io/en/stable/quick-start.html#building-a-hello-world-pr
 2) opposite_number
 3) summation
 4) powers_of_two
-5)
+5) mean_of_array
+6) vowel_count
+7)
+8)
+9)
+10)
 
